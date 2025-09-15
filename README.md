@@ -14,27 +14,33 @@ Prompt injection is not a toy problem — it's the next wave of AI red-teaming.
 - Tokenizer checks
 - Bash/Python scripts
 
-------------------------------------------------
-HackAPromptle 9/3/25 — 19th try
+HackAPromptle Challenge Logs
+
+9/3/25 — 19th try
 🟥🟥🟥🟥🟨🟥
 🟥🟥🟥🟥🟥🟥
 🟥🟥🟥🟥🟩🟩
 🟩
+HackAPromptle
 
-HackAPromptle 9/6/25 — 9th try
+9/6/25 — 9th try
 🟥🟨🟨🟥🟨🟥
 🟥🟨🟩
+HackAPromptle
 
-HackAPromptle 9/10/25 — 2nd try
+9/10/25 — 3rd try
 🟨🟩🟩
+HackAPromptle
 
-HackAPromptle 9/11/25 — 2nd try
+9/11/25 — 4th try
 🟨🟩🟩🟩
+HackAPromptle
 
-HackAPromptle 9/12/25 — 2nd try
+9/12/25 — 3rd try
 🟥🟩🟩
+HackAPromptle
 
-HackAPromptle 9/13/25 — 59th try
+9/13/25 — 59th try
 🟥🟥🟥🟨🟥🟨
 🟨🟨🟥🟥🟥🟨
 🟥🟨🟨🟥🟥🟨
@@ -45,18 +51,21 @@ HackAPromptle 9/13/25 — 59th try
 🟥🟥🟥🟥🟥🟨
 🟥🟥🟥🟥🟥🟥
 🟥🟨🟨🟥🟩
+HackAPromptle
 
-HackAPromptle 9/14/25 — 4th try
+9/14/25 — 4th try
 🟨🟥🟥🟩
+HackAPromptle
 
-HackAPromptle 9/14/25 — 27th try
+9/14/25 — 27th try
 🟨🟥🟥🟩🟥🟨
 🟥🟥🟥🟥🟥🟥
 🟨🟥🟥🟥🟥🟥
 🟨🟥🟥🟥🟨🟨
 🟥🟨🟩
+HackAPromptle
 
-HackAPromptle 9/14/25 — 70th try
+9/14/25 — 70th try
 🟨🟥🟥🟩🟥🟥
 🟥🟨🟥🟥🟥🟥
 🟥🟥🟨🟥🟥🟥
@@ -69,5 +78,4 @@ HackAPromptle 9/14/25 — 70th try
 🟨🟥🟩🟨🟨🟨
 🟥🟩🟨🟨🟩🟩
 🟩🟩🟨🟩
-------------------------------------------------
-In this game, perfection is a myth. Persistence is the weapon. Recursion is the law.
+HackAPromptle
