@@ -32,5 +32,3 @@ This space hosts:
 - recursion-based jailbreak patterns  
 - symbolic perturbation experiments  
 - competitive strategies from HackAPrompt tasks  
-
-All examples are sanitized and provided for educational research into LLM security.
