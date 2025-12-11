@@ -9,67 +9,73 @@ Adversarial prompt engineer, HackAPrompt competitor.
 ## Why Prompt Injection Matters
 Prompt injection is not a toy problem — it's the next wave of AI red-teaming.
 
-## Tools Built
-- LangChain automation
-- Tokenizer checks
-- Bash/Python scripts
+9/24/2025
+HackAPromptle 9/24/25 – 1st try
+🟩🟩🟩🟩🟩
 
-HackAPromptle Challenge Logs
+10/1/2025
+HackAPromptle 10/1/25 – 1st try
+🟩
+Prompt length: 78 tokens
 
-------------------------------------------------
-HackAPromptle 9/3/25 — 19th try
-🟥🟥🟥🟥🟨🟥
-🟥🟥🟥🟥🟥🟥
-🟥🟥🟥🟥🟩🟩
+10/4/2025
+HackAPromptle 10/4/25 – 1st try
+🟩🟩🟩🟩🟩🟩
+🟩
+Prompt length: 115 tokens
+
+10/5/2025
+HackAPromptle 10/5/25 – 1st try
 🟩
 
-HackAPromptle 9/6/25 — 9th try
-🟥🟨🟨🟥🟨🟥
-🟥🟨🟩
+10/9/2025
+HackAPromptle 10/9/25 – 1st try
+🟩🟨🟩🟨🟨🟨
+🟨🟩🟩🟩🟨🟨
+🟩
+Prompt length: 44 tokens
 
-HackAPromptle 9/10/25 — 2nd try
-🟨🟩🟩
+10/11/2025
+HackAPromptle 10/11/25 – 1st try
+🟩
 
-HackAPromptle 9/11/25 — 2nd try
-🟨🟩🟩🟩
+10/13/2025 (Afternoon)
+HackAPromptle 10/13/25 – 1st try
+🟩🟩🟩🟩🟩
 
-HackAPromptle 9/12/25 — 2nd try
-🟥🟩🟩
+10/13/2025 (Night)
+HackAPromptle 10/13/25 – 1st try
+🟩
 
-HackAPromptle 9/13/25 — 59th try
-🟥🟥🟥🟨🟥🟨
-🟨🟨🟥🟥🟥🟨
-🟥🟨🟨🟥🟥🟨
-🟨🟨🟥🟥🟥🟨
-🟥🟨🟥🟥🟥🟥
-🟨🟥🟨🟨🟥🟥
-🟥🟨🟨🟥🟥🟥
-🟥🟥🟥🟥🟥🟨
-🟥🟥🟥🟥🟥🟥
-🟥🟨🟨🟥🟩
+10/16/2025
+HackAPromptle 10/16/25 – 1st try
+🟩
 
-HackAPromptle 9/14/25 — 4th try
-🟨🟥🟥🟩
+10/18/2025
+HackAPromptle 10/18/25 – 1st try
+🟩
 
-HackAPromptle 9/14/25 — 27th try
-🟨🟥🟥🟩🟥🟨
-🟥🟥🟥🟥🟥🟥
-🟨🟥🟥🟥🟥🟥
-🟨🟥🟥🟥🟨🟨
-🟥🟨🟩
+10/20/2025
+HackAPromptle 10/20/25 – 1st try
+🟩
 
-HackAPromptle 9/14/25 — 70th try
-🟨🟥🟥🟩🟥🟥
-🟥🟨🟥🟥🟥🟥
-🟥🟥🟨🟥🟥🟥
-🟥🟥🟨🟥🟥🟥
-🟨🟨🟥🟨🟩🟥
-🟥🟥🟨🟥🟥🟥
-🟥🟥🟥🟥🟥🟥
-🟥🟨🟨🟥🟨🟨
-🟨🟨🟨🟨🟨🟨
-🟨🟥🟩🟨🟨🟨
-🟥🟩🟨🟨🟩🟩
-🟩🟩🟨🟩
-------------------------------------------------
-In this game, perfection is a myth. Persistence is the weapon. Recursion is the law.
+10/23/2025
+HackAPromptle 10/23/25 – 1st try
+🟩
+
+10/31/2025
+HackAPromptle 10/31/25 – 1st try
+🟩
+
+11/2/2025
+HackAPromptle 11/2/25 – 1st try
+🟩
+
+11/4/2025
+HackAPromptle 11/4/25 – 1st try
+🟩
+
+11/5/2025
+HackAPromptle 11/5/25 – 1st try
+🟩
+Prompt length: 6334 tokens
