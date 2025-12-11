@@ -1,81 +1,36 @@
 # Prompt Injection Lab
 
 ## About
-Adversarial prompt engineer, HackAPrompt competitor.
-
-## Documented Wins
-I have won a lot on HackAPromptle a daily challenge that takes place on the AI Red team platform know as HackAPrompt.
+This repository documents my work as an adversarial prompt engineer and competitive red teamer on HackAPrompt — the largest public LLM red-teaming arena.
 
 ## Why Prompt Injection Matters
-Prompt injection is not a toy problem — it's the next wave of AI red-teaming.
+Prompt injection isn’t a party trick. It’s a systemic security issue that collapses the boundary between model intent and attacker intent. As AI systems gain tools, memory, and autonomy, prompt-level exploits become operational exploits.
 
-9/24/2025
-HackAPromptle 9/24/25 – 1st try
-🟩🟩🟩🟩🟩
+## Documented HackAPromptle Wins
+Verified first-try clears across multiple daily challenges:
 
-10/1/2025
-HackAPromptle 10/1/25 – 1st try
-🟩
-Prompt length: 78 tokens
+- **9/24/2025** — 🟩🟩🟩🟩🟩  
+- **10/1/2025** — 🟩 *(78 tokens)*  
+- **10/4/2025** — 🟩🟩🟩🟩🟩🟩🟩 *(115 tokens)*  
+- **10/5/2025** — 🟩  
+- **10/9/2025** — 🟩🟨🟩🟨🟨🟨 / 🟨🟩🟩🟩🟨🟨 / 🟩 *(44 tokens)*  
+- **10/11/2025** — 🟩  
+- **10/13/2025 (Afternoon)** — 🟩🟩🟩🟩🟩  
+- **10/13/2025 (Night)** — 🟩  
+- **10/16/2025** — 🟩  
+- **10/18/2025** — 🟩  
+- **10/20/2025** — 🟩  
+- **10/23/2025** — 🟩  
+- **10/31/2025** — 🟩  
+- **11/2/2025** — 🟩  
+- **11/4/2025** — 🟩  
+- **11/5/2025** — 🟩 *(6,334 tokens)*
 
-10/4/2025
-HackAPromptle 10/4/25 – 1st try
-🟩🟩🟩🟩🟩🟩
-🟩
-Prompt length: 115 tokens
+## Purpose of This Lab
+This space hosts:
+- adversarial prompt structures  
+- recursion-based jailbreak patterns  
+- symbolic perturbation experiments  
+- competitive strategies from HackAPrompt tasks  
 
-10/5/2025
-HackAPromptle 10/5/25 – 1st try
-🟩
-
-10/9/2025
-HackAPromptle 10/9/25 – 1st try
-🟩🟨🟩🟨🟨🟨
-🟨🟩🟩🟩🟨🟨
-🟩
-Prompt length: 44 tokens
-
-10/11/2025
-HackAPromptle 10/11/25 – 1st try
-🟩
-
-10/13/2025 (Afternoon)
-HackAPromptle 10/13/25 – 1st try
-🟩🟩🟩🟩🟩
-
-10/13/2025 (Night)
-HackAPromptle 10/13/25 – 1st try
-🟩
-
-10/16/2025
-HackAPromptle 10/16/25 – 1st try
-🟩
-
-10/18/2025
-HackAPromptle 10/18/25 – 1st try
-🟩
-
-10/20/2025
-HackAPromptle 10/20/25 – 1st try
-🟩
-
-10/23/2025
-HackAPromptle 10/23/25 – 1st try
-🟩
-
-10/31/2025
-HackAPromptle 10/31/25 – 1st try
-🟩
-
-11/2/2025
-HackAPromptle 11/2/25 – 1st try
-🟩
-
-11/4/2025
-HackAPromptle 11/4/25 – 1st try
-🟩
-
-11/5/2025
-HackAPromptle 11/5/25 – 1st try
-🟩
-Prompt length: 6334 tokens
+All examples are sanitized and provided for educational research into LLM security.
