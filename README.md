@@ -4,7 +4,7 @@
 Adversarial prompt engineer, HackAPrompt competitor.
 
 ## Documented Wins
-1st place wins
+I have won a lot on HackAPromptle a daily challenge that takes place on the AI Red team platform know as HackAPrompt.
 
 ## Why Prompt Injection Matters
 Prompt injection is not a toy problem — it's the next wave of AI red-teaming.
