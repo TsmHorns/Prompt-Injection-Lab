@@ -4,7 +4,7 @@
 Adversarial prompt engineer, HackAPrompt competitor.
 
 ## Documented Wins
-- 2-try win, 70-try persistence grind, etc.
+1st place wins
 
 ## Why Prompt Injection Matters
 Prompt injection is not a toy problem — it's the next wave of AI red-teaming.
